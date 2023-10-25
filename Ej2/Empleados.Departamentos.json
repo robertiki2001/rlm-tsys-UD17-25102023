@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "65369d477ae3f98e8c47067f"
+  },
+  "nombre": "Recursos humanos",
+  "presupuesto": 40
+},
+{
+  "_id": {
+    "$oid": "65369d477ae3f98e8c470680"
+  },
+  "nombre": "Electronica",
+  "presupuesto": 50
+},
+{
+  "_id": {
+    "$oid": "65369d477ae3f98e8c470681"
+  },
+  "nombre": "Software",
+  "presupuesto": 80
+},
+{
+  "_id": {
+    "$oid": "65369d477ae3f98e8c470682"
+  },
+  "nombre": "Atencion al cliente",
+  "presupuesto": 15
+},
+{
+  "_id": {
+    "$oid": "65369d477ae3f98e8c470683"
+  },
+  "nombre": "Marketing",
+  "presupuesto": 20
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6536a9237ae3f98e8c4706b1"
+  },
+  "id": "TA01",
+  "nombre": "Letitgo"
+},
+{
+  "_id": {
+    "$oid": "6536a9237ae3f98e8c4706b2"
+  },
+  "id": "TA02",
+  "nombre": "Lego"
+},
+{
+  "_id": {
+    "$oid": "6536a9237ae3f98e8c4706b3"
+  },
+  "id": "TA03",
+  "nombre": "Poreicos"
+},
+{
+  "_id": {
+    "$oid": "6536a9237ae3f98e8c4706b4"
+  },
+  "id": "TA04",
+  "nombre": "Inditex"
+},
+{
+  "_id": {
+    "$oid": "6536a9237ae3f98e8c4706b5"
+  },
+  "id": "TA05",
+  "nombre": "Nintendo"
+}]

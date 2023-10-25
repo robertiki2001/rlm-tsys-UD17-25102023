@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6536b99c7ae3f98e8c4706f2"
+  },
+  "dni_cientifico": "48134857X",
+  "id_proyecto": "AS13"
+},
+{
+  "_id": {
+    "$oid": "6536b99c7ae3f98e8c4706f3"
+  },
+  "dni_cientifico": "45679803S",
+  "id_proyecto": "DF87"
+},
+{
+  "_id": {
+    "$oid": "6536b99c7ae3f98e8c4706f4"
+  },
+  "dni_cientifico": "40983452O",
+  "id_proyecto": "HJ87"
+},
+{
+  "_id": {
+    "$oid": "6536b99c7ae3f98e8c4706f5"
+  },
+  "dni_cientifico": "56743563F",
+  "id_proyecto": "OP64"
+},
+{
+  "_id": {
+    "$oid": "6536b99c7ae3f98e8c4706f6"
+  },
+  "dni_cientifico": "40987635G",
+  "id_proyecto": "NJ23"
+}]

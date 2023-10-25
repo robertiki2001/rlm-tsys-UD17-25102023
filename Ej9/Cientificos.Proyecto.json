@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6536b8fc7ae3f98e8c4706ed"
+  },
+  "id": "AS13",
+  "nombre": "Robic",
+  "horas": 4
+},
+{
+  "_id": {
+    "$oid": "6536b8fc7ae3f98e8c4706ee"
+  },
+  "id": "DF87",
+  "nombre": "Loma",
+  "horas": 10
+},
+{
+  "_id": {
+    "$oid": "6536b8fc7ae3f98e8c4706ef"
+  },
+  "id": "HJ87",
+  "nombre": "Kilw",
+  "horas": 15
+},
+{
+  "_id": {
+    "$oid": "6536b8fc7ae3f98e8c4706f0"
+  },
+  "id": "OP64",
+  "nombre": "Lope",
+  "horas": 25
+},
+{
+  "_id": {
+    "$oid": "6536b8fc7ae3f98e8c4706f1"
+  },
+  "id": "NJ23",
+  "nombre": "Pelo",
+  "horas": 90
+}]

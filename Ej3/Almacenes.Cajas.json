@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6536a4077ae3f98e8c470693"
+  },
+  "contenido": "Herramientas",
+  "valor": 5000,
+  "id_almacen": {
+    "$oid": "6536a1957ae3f98e8c47068e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4077ae3f98e8c470694"
+  },
+  "contenido": "Articulos de belleza",
+  "valor": 4590,
+  "id_almacen": {
+    "$oid": "6536a1957ae3f98e8c47068f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4077ae3f98e8c470695"
+  },
+  "contenido": "Alimento para perros",
+  "valor": 2500,
+  "id_almacen": {
+    "$oid": "6536a1957ae3f98e8c470690"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4077ae3f98e8c470696"
+  },
+  "contenido": "Coleccion de cromos",
+  "valor": 20000,
+  "id_almacen": {
+    "$oid": "6536a1957ae3f98e8c470691"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4077ae3f98e8c470697"
+  },
+  "contenido": "Antigüedades",
+  "valor": 50000,
+  "id_almacen": {
+    "$oid": "6536a1957ae3f98e8c470692"
+  }
+}]

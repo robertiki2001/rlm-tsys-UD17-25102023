@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6536a7207ae3f98e8c4706a7"
+  },
+  "DNI": "48135836X",
+  "DNIjefe": "09876543L",
+  "id_despacho": {
+    "$oid": "6536a5e27ae3f98e8c4706a2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a7207ae3f98e8c4706a8"
+  },
+  "DNI": "45657687D",
+  "DNIjefe": "09876543L",
+  "id_despacho": {
+    "$oid": "6536a5e27ae3f98e8c4706a3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a7207ae3f98e8c4706a9"
+  },
+  "DNI": "34567890",
+  "DNIjefe": "12345678F",
+  "id_despacho": {
+    "$oid": "6536a5e27ae3f98e8c4706a4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a7207ae3f98e8c4706aa"
+  },
+  "DNI": "12345678F",
+  "DNIjefe": "34567890",
+  "id_despacho": {
+    "$oid": "6536a5e27ae3f98e8c4706a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a7207ae3f98e8c4706ab"
+  },
+  "DNI": "09876543L",
+  "DNIjefe": "12345678F",
+  "id_despacho": {
+    "$oid": "6536a5e27ae3f98e8c4706a6"
+  }
+}]

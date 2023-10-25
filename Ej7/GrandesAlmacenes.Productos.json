@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6536ac907ae3f98e8c4706c5"
+  },
+  "nombre": "Champú",
+  "precio": 6
+},
+{
+  "_id": {
+    "$oid": "6536ac907ae3f98e8c4706c6"
+  },
+  "nombre": "Aloe vera",
+  "precio": 4
+},
+{
+  "_id": {
+    "$oid": "6536ac907ae3f98e8c4706c7"
+  },
+  "nombre": "Pan",
+  "precio": 9
+},
+{
+  "_id": {
+    "$oid": "6536ac907ae3f98e8c4706c8"
+  },
+  "nombre": "Mantequilla",
+  "precio": 2
+},
+{
+  "_id": {
+    "$oid": "6536ac907ae3f98e8c4706c9"
+  },
+  "nombre": "Leche",
+  "precio": 1.5
+}]

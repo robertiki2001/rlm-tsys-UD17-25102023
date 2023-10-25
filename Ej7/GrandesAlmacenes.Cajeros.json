@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6536abb97ae3f98e8c4706bb"
+  },
+  "NombreApellidos": "Robert López Machuca"
+},
+{
+  "_id": {
+    "$oid": "6536abb97ae3f98e8c4706bc"
+  },
+  "NombreApellidos": "Adrian Gonzalez Garcia"
+},
+{
+  "_id": {
+    "$oid": "6536abb97ae3f98e8c4706bd"
+  },
+  "NombreApellidos": "Alvaro García Ojeda"
+},
+{
+  "_id": {
+    "$oid": "6536abb97ae3f98e8c4706be"
+  },
+  "NombreApellidos": "Laura Fornos Ramirez"
+},
+{
+  "_id": {
+    "$oid": "6536abb97ae3f98e8c4706bf"
+  },
+  "NombreApellidos": "Manel Castellvi Cerezuela"
+}]

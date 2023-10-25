@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6536afd07ae3f98e8c4706cf"
+  },
+  "nombre": "Robert"
+},
+{
+  "_id": {
+    "$oid": "6536afd07ae3f98e8c4706d0"
+  },
+  "nombre": "Victor"
+},
+{
+  "_id": {
+    "$oid": "6536afd07ae3f98e8c4706d1"
+  },
+  "nombre": "Sergi"
+},
+{
+  "_id": {
+    "$oid": "6536afd07ae3f98e8c4706d2"
+  },
+  "nombre": "Manel"
+},
+{
+  "_id": {
+    "$oid": "6536afd07ae3f98e8c4706d3"
+  },
+  "nombre": "Adrian"
+}]

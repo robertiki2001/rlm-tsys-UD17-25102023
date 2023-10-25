@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6536a8537ae3f98e8c4706ac"
+  },
+  "nombre": "Tornillos"
+},
+{
+  "_id": {
+    "$oid": "6536a8537ae3f98e8c4706ad"
+  },
+  "nombre": "Tuercas"
+},
+{
+  "_id": {
+    "$oid": "6536a8537ae3f98e8c4706ae"
+  },
+  "nombre": "Martillos"
+},
+{
+  "_id": {
+    "$oid": "6536a8537ae3f98e8c4706af"
+  },
+  "nombre": "Arandelas"
+},
+{
+  "_id": {
+    "$oid": "6536a8537ae3f98e8c4706b0"
+  },
+  "nombre": "Sello"
+}]

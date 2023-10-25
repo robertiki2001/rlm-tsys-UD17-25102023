@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6536b3da7ae3f98e8c4706de"
+  },
+  "DNI": "48134857X",
+  "NomApels": "Robert López Machuca",
+  "id_facultad": {
+    "$oid": "6536afd07ae3f98e8c4706cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b3da7ae3f98e8c4706df"
+  },
+  "DNI": "56746354F",
+  "NomApels": "Laura Fornos Ramirez",
+  "id_facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b3da7ae3f98e8c4706e0"
+  },
+  "DNI": "98765432S",
+  "NomApels": "Emilio Laure Longe",
+  "id_facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b3da7ae3f98e8c4706e1"
+  },
+  "DNI": "46574536G",
+  "NomApels": "Manel Castellvi Cerezuela",
+  "id_facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b3da7ae3f98e8c4706e2"
+  },
+  "DNI": "84573645Q",
+  "NomApels": "Adrian Gallego Morillas",
+  "id_facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d3"
+  }
+}]

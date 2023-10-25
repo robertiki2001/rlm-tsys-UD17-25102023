@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6536a4e97ae3f98e8c470698"
+  },
+  "nombre": "Los 4 Fantasticos",
+  "calificacionEdad": 3
+},
+{
+  "_id": {
+    "$oid": "6536a4e97ae3f98e8c470699"
+  },
+  "nombre": "La Jungla de Cristal",
+  "calificacionEdad": 10
+},
+{
+  "_id": {
+    "$oid": "6536a4e97ae3f98e8c47069a"
+  },
+  "nombre": "Fast & Furious 3",
+  "calificacionEdad": 16
+},
+{
+  "_id": {
+    "$oid": "6536a4e97ae3f98e8c47069b"
+  },
+  "nombre": "Joe Black",
+  "calificacionEdad": 18
+},
+{
+  "_id": {
+    "$oid": "6536a4e97ae3f98e8c47069c"
+  },
+  "nombre": "Alicia en el pais de las maravillas",
+  "calificacionEdad": 6
+}]

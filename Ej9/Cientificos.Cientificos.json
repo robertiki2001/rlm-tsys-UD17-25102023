@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6536b7f27ae3f98e8c4706e8"
+  },
+  "DNI": "48134857X",
+  "NomsApels": "Robert López Machuca"
+},
+{
+  "_id": {
+    "$oid": "6536b7f27ae3f98e8c4706e9"
+  },
+  "DNI": "45679803S",
+  "NomsApels": "Jordi Fort Esteve"
+},
+{
+  "_id": {
+    "$oid": "6536b7f27ae3f98e8c4706ea"
+  },
+  "DNI": "40983452O",
+  "NomsApels": "Manel Cervatill Cerezuela"
+},
+{
+  "_id": {
+    "$oid": "6536b7f27ae3f98e8c4706eb"
+  },
+  "DNI": "56743563F",
+  "NomsApels": "Laura Fornos Ramirez"
+},
+{
+  "_id": {
+    "$oid": "6536b7f27ae3f98e8c4706ec"
+  },
+  "DNI": "40987635G",
+  "NomsApels": "Adrian Gallego Morillas"
+}]

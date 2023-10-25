@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "653699347ae3f98e8c47067a"
+  },
+  "nombre": "Silla",
+  "precio": 35,
+  "codigoFabricante": {
+    "$oid": "653692906c3aa4a601dbb667"
+  }
+},
+{
+  "_id": {
+    "$oid": "65369ae67ae3f98e8c47067b"
+  },
+  "nombre": "Mesa",
+  "precio": 60,
+  "codigoFabricante": {
+    "$oid": "653695b46c3aa4a601dbb66c"
+  }
+},
+{
+  "_id": {
+    "$oid": "65369ae67ae3f98e8c47067c"
+  },
+  "nombre": "Sofa",
+  "precio": 50,
+  "codigoFabricante": {
+    "$oid": "6536949a6c3aa4a601dbb668"
+  }
+},
+{
+  "_id": {
+    "$oid": "65369ae67ae3f98e8c47067d"
+  },
+  "nombre": "Marmol",
+  "precio": 80,
+  "codigoFabricante": {
+    "$oid": "653695216c3aa4a601dbb66a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65369ae67ae3f98e8c47067e"
+  },
+  "nombre": "Grifo",
+  "precio": 15,
+  "codigoFabricante": {
+    "$oid": "653695b46c3aa4a601dbb66c"
+  }
+}]

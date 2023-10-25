@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6536a00e7ae3f98e8c470689"
+  },
+  "DNI": "48135836X",
+  "nombre": "Robert",
+  "apellidos": "Lopez Machuca",
+  "id_departamento": {
+    "$oid": "65369d477ae3f98e8c470681"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a00e7ae3f98e8c47068a"
+  },
+  "DNI": "49897654D",
+  "nombre": "Manel",
+  "apellidos": "Cerezuela Castellvi",
+  "id_departamento": {
+    "$oid": "65369d477ae3f98e8c470680"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a00e7ae3f98e8c47068b"
+  },
+  "DNI": "45637334F",
+  "nombre": "Adrian",
+  "apellidos": "Gonzales Garcia",
+  "id_departamento": {
+    "$oid": "65369d477ae3f98e8c470682"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a00e7ae3f98e8c47068c"
+  },
+  "DNI": "87986758A",
+  "nombre": "Sergio",
+  "apellidos": "Didac Estups",
+  "id_departamento": {
+    "$oid": "65369d477ae3f98e8c470683"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a00e7ae3f98e8c47068d"
+  },
+  "DNI": "56565432D",
+  "nombre": "Carla",
+  "apellidos": "Velasco Fornos",
+  "id_departamento": {
+    "$oid": "65369d477ae3f98e8c470681"
+  }
+}]

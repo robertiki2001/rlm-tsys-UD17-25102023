@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "653692906c3aa4a601dbb667"
+  },
+  "nombre": "Fabrica Tarragona"
+},
+{
+  "_id": {
+    "$oid": "6536949a6c3aa4a601dbb668"
+  },
+  "nombre": "Fabrica Barcelona"
+},
+{
+  "_id": {
+    "$oid": "653694ca6c3aa4a601dbb669"
+  },
+  "nombre": "Fabrica Girona"
+},
+{
+  "_id": {
+    "$oid": "653695216c3aa4a601dbb66a"
+  },
+  "nombre": "Fabrica Lleida"
+},
+{
+  "_id": {
+    "$oid": "653695b46c3aa4a601dbb66c"
+  },
+  "nombre": "Fabrica Montblanc"
+}]

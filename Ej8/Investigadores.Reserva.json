@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6536b60c7ae3f98e8c4706e3"
+  },
+  "DNIinvestigador": "48134857X",
+  "NumSerieEquipo": "1234",
+  "comienzo": "12-12-2016",
+  "final": "20-12-2016"
+},
+{
+  "_id": {
+    "$oid": "6536b60c7ae3f98e8c4706e4"
+  },
+  "DNIinvestigador": "56746354F",
+  "NumSerieEquipo": "2345",
+  "comienzo": "15-12-2021",
+  "final": "26-12-2021"
+},
+{
+  "_id": {
+    "$oid": "6536b60c7ae3f98e8c4706e5"
+  },
+  "DNIinvestigador": "98765432S",
+  "NumSerieEquipo": "3456",
+  "comienzo": "15-12-2021",
+  "final": "20-12-2022"
+},
+{
+  "_id": {
+    "$oid": "6536b60c7ae3f98e8c4706e6"
+  },
+  "DNIinvestigador": "46574536G",
+  "NumSerieEquipo": "4567",
+  "comienzo": "15-06-2021",
+  "final": "25-06-2019"
+},
+{
+  "_id": {
+    "$oid": "6536b60c7ae3f98e8c4706e7"
+  },
+  "DNIinvestigador": "84573645Q",
+  "NumSerieEquipo": "5678",
+  "comienzo": "13-09-2021",
+  "final": "15-12-2021"
+}]

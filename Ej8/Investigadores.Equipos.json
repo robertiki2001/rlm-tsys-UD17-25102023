@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6536b1f57ae3f98e8c4706d9"
+  },
+  "numSerie": "1234",
+  "nombre": "Robic",
+  "facultad": {
+    "$oid": "6536afd07ae3f98e8c4706cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b1f57ae3f98e8c4706da"
+  },
+  "numSerie": "2345",
+  "nombre": "Agenciados",
+  "facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b1f57ae3f98e8c4706db"
+  },
+  "numSerie": "3456",
+  "nombre": "Pacificadores",
+  "facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b1f57ae3f98e8c4706dc"
+  },
+  "numSerie": "4567",
+  "nombre": "FraudeFiscal",
+  "facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b1f57ae3f98e8c4706dd"
+  },
+  "numSerie": "5678",
+  "nombre": "Ganchitos",
+  "facultad": {
+    "$oid": "6536afd07ae3f98e8c4706d3"
+  }
+}]
